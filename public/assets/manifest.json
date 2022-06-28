@@ -1,0 +1,21 @@
+{
+  "main.jsx": {
+    "file": "main.jsx.514440c9.js",
+    "src": "main.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "demo.js"
+    ],
+    "css": [
+      "main.jsx.531367ff.css"
+    ],
+    "assets": [
+      "logo.ecc203fb.svg"
+    ]
+  },
+  "demo.js": {
+    "file": "demo.1d1b1be4.js",
+    "src": "demo.js",
+    "isDynamicEntry": true
+  }
+}
